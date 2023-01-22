@@ -1,5 +1,5 @@
 # Flash Card Quiz
-
+BeiZhang_T3A2-A
 ## Purpose
  
 The purpose of the application is to provide a fun and easy way to test knowledge.
@@ -47,14 +47,14 @@ Our app is targeted towards people who are looking for a way to take the burden 
 
 ## Dataflow Diagram
 
-![DFD](../part-a/docs/Level%200%20DFD.png "DFD")
-![DFD](../part-a/docs/Level%201%20DFD%20Authentication.png "DFD")
-![DFD](../part-a/docs/Level%201%20DFD%20Quiz.png "DFD")
-![DFD](../part-a/docs/Level%201%20DFD%20User.png "DFD")
+![DFD](../docs/Level%200%20DFD.png "DFD")
+![DFD](../docs/Level%201%20DFD%20Authentication.png "DFD")
+![DFD](../docs/Level%201%20DFD%20Quiz.png "DFD")
+![DFD](../docs/Level%201%20DFD%20User.png "DFD")
 
 ## Application Architecture Diagram
 
-![Application Architecture Diagram](../part-a/docs/AAD.png "AAD")
+![Application Architecture Diagram](../docs/AAD.png "AAD")
 
 ## User Stories
 
@@ -74,13 +74,13 @@ Our app is targeted towards people who are looking for a way to take the burden 
 ## Wireframes
 
 Mobile
-![Wireframe-mobile](../part-a/docs/Wireframe-mobile.png "mobile")
+![Wireframe-mobile](../docs/Wireframe-mobile.png "mobile")
 
 Tablet
-![wireframes-tablet](../part-a/docs/wireframes-tablet.png "tablet")
+![wireframes-tablet](../docs/wireframes-tablet.png "tablet")
 
 Desktop
-![Wireframe-desktop](../part-a/docs/flashcards-wireframes.png "desktop")
+![Wireframe-desktop](../docs/flashcards-wireframes.png "desktop")
 
 ## Screenshots of Trello board
 
@@ -124,10 +124,10 @@ For this project these will be :
 
 - Move card to Merged after all test have been completed and the code has been merged with the master branch
 
-![trello](../part-a/docs/1.png "1")
-![trello](../part-a/docs/2.png "2")
-![trello](../part-a/docs/3.png "3")
-![trello](../part-a/docs/4.png "4")
-![trello](../part-a/docs/5.png "5")
-![trello](../part-a/docs/6.png "6")
-![trello](../part-a/docs/7.png "7")
+![trello](../docs/1.png "1")
+![trello](../docs/2.png "2")
+![trello](../docs/3.png "3")
+![trello](../docs/4.png "4")
+![trello](../docs/5.png "5")
+![trello](../docs/6.png "6")
+![trello](../docs/7.png "7")
