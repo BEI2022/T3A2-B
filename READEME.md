@@ -70,6 +70,10 @@ Our app is targeted towards people who are looking for a way to take the burden 
 10. As a user, I want to be able to update a flashcard's question and/or answers, so that I can make the flashcard more effective for studying.
 11. As a user, I want to be able to remove a flash card from a quiz, so that it no longer appears in the quiz if I no longer need it.
 12. As a user, I want to be able to see my quiz results after submitting, so that I know where to improve for next time.
+13. As a user, I want to create an account, so that I can begin using the app.
+14. As a user, I want to login to my account, so I can access my previously created quizzes.
+15. As a user, I want to be able to select a subject, so that I can see all quizzes that relate to that subject.
+16. As a user, I want to be able to take a quiz, so that I can study using its flashcards.
 
 ## Wireframes
 
