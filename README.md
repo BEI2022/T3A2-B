@@ -1,5 +1,5 @@
 # Flash Card Quiz
-BeiZhang_T3A2-A
+
 ## Purpose
  
 The purpose of the application is to provide a fun and easy way to test knowledge.
