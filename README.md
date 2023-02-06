@@ -1,7 +1,32 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  
+
+- [Flash Card Quiz](#flash-card-quiz)
+    - [Purpose](#purpose)
+    - [Features](#features)
+    - [Functionality](#functionality)
+    - [Target audience](#target-audience)
+    - [Tech Stack](#tech-stack)
+    - [Dataflow Diagram](#dataflow-diagram)
+    - [Application Architecture Diagram](#application-architecture-diagram)
+    - [User Stories](#user-stories)
+    - [Wireframes](#wireframes)
+  - [Screenshots of Trello board](#screenshots-of-trello-board)
+  - [Testing](#testing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Flash Card Quiz
 
 
+[Frontend repo](https://github.com/jfhaines/ca-quiz-front-end)  
+[Backend repo](https://github.com/2w00fs/ca_quiz_api)  
+[Frontend Deployment]()  
+[Backend Deployment]()  
+[Trello]()  
 
+[toc]
 ### Purpose
  
 The purpose of the application is to provide a fun and easy way to test knowledge.
@@ -25,9 +50,9 @@ Our app is targeted towards people who are looking for a way to take the burden 
 
 ### Tech Stack
 
-#### The technologies which will be used are:
+The technologies which will be used are:
 
-##### Development:
+Development:
 
 - HTML
 - CSS(Bootstrap)
@@ -36,13 +61,13 @@ Our app is targeted towards people who are looking for a way to take the burden 
 - Node.js
 - MongoDB
 
-##### Testing
+Testing
 
 - Jest
 - Hosting Provider
 - Railway
 
-##### Source Control
+Source Control
 
 - Git
 - Github
@@ -88,13 +113,13 @@ Tablet
 Desktop
 ![Wireframe-desktop](./docs/flashcards-wireframes.png "desktop")
 
-### Screenshots of Trello board
 
-#### Implementing Agile using a Kanban Board
+
+Implementing Agile using a Kanban Board
 
 [![Agile workflow](https://raw.githubusercontent.com/2w00fs/git_practice/master/agile%20workflow.png)](https://github.com/2w00fs/git_practice/blob/master/agile%20workflow.png)
 
-##### Break down project into cycles
+Break down project into cycles
 
 For this project these will be :
 - Home
@@ -105,7 +130,7 @@ For this project these will be :
 - Authentication
 - Deployment
 
-###### Design
+Design
 
 - Break the tasks down into order of priority
 - Create a card for each task
@@ -113,7 +138,7 @@ For this project these will be :
 - Move card to Backlog queue
 - Assign team member once someone has been given the task
 
-###### Develop
+Develop
 
 - Acknowledge card once it has been assigned
 - Move to Development - In Progress once development has started
@@ -121,14 +146,16 @@ For this project these will be :
 - Start writing code for the task
 - Move to Development - Completed when it is ready for testing
 
-###### Test
+Test
 
 - Move card to Testing - In Progress once someone has been assigned to test the feature
 - Move card to Testing - Complete when it is ready for deployment
 
-###### Merge
+Merge
 
 - Move card to Merged after all test have been completed and the code has been merged with the master branch
+
+## Screenshots of Trello board
 
 ![trello](./docs/1.png "1")
 ![trello](./docs/2.png "2")
@@ -137,3 +164,13 @@ For this project these will be :
 ![trello](./docs/5.png "5")
 ![trello](./docs/6.png "6")
 ![trello](./docs/7.png "7")
+
+
+## Testing 
+
+Production testing  
+
+- The spreadsheet contains tests during development and re-testing after deployment.  
+- In development, whenever a component is completed, the use test of the function is carried out
+  
+![production testing](docs/Production%20Test.png)
