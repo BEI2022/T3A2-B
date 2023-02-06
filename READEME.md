@@ -1,31 +1,33 @@
 # Flash Card Quiz
 
-## Purpose
+
+
+### Purpose
  
 The purpose of the application is to provide a fun and easy way to test knowledge.
 
-## Features
+### Features
 
 - Create custom subjects
 - Create Flashcards
 - Create multiple quizzes using the same, or different, cards
 - Take the quiz and receive feedback on the answers
 
-## Functionality
+### Functionality
 
 - To generate a flashcard, users must provide a question, an answer, and three incorrect answers
 - During a quiz, the correct answer will only be shown if it is selected
 - At the end of the quiz, cards will be displayed and grouped by their correct or incorrect answer status
 
-## Target audience
+### Target audience
 
 Our app is targeted towards people who are looking for a way to take the burden out of studying. This will be students, receiving either a formal education or engaged in self-paced learning, and educators looking for a tool they can use to provide additional content.
 
-## Tech Stack
+### Tech Stack
 
-### The technologies which will be used are:
+#### The technologies which will be used are:
 
-#### Development:
+##### Development:
 
 - HTML
 - CSS(Bootstrap)
@@ -34,29 +36,29 @@ Our app is targeted towards people who are looking for a way to take the burden 
 - Node.js
 - MongoDB
 
-#### Testing
+##### Testing
 
 - Jest
 - Hosting Provider
 - Railway
 
-#### Source Control
+##### Source Control
 
 - Git
 - Github
 
-## Dataflow Diagram
+### Dataflow Diagram
 
 ![DFD](./docs/Level%200%20DFD.png "DFD")
 ![DFD](./docs/Level%201%20DFD%20Authentication.png "DFD")
 ![DFD](./docs/Level%201%20DFD%20Quiz.png "DFD")
 ![DFD](./docs/Level%201%20DFD%20User.png "DFD")
 
-## Application Architecture Diagram
+### Application Architecture Diagram
 
 ![Application Architecture Diagram](./docs/AAD.png "AAD")
 
-## User Stories
+### User Stories
 
 1. As a user, I want to create flashcards so that I can use them to make a quiz.
 2. As a user, I want to save my quizzes so that I can quiz myself at a later date.
@@ -75,7 +77,7 @@ Our app is targeted towards people who are looking for a way to take the burden 
 15. As a user, I want to be able to select a subject, so that I can see all quizzes that relate to that subject.
 16. As a user, I want to be able to take a quiz, so that I can study using its flashcards.
 
-## Wireframes
+### Wireframes
 
 Mobile
 ![Wireframe-mobile](./docs/Wireframe-mobile.png "mobile")
@@ -86,13 +88,13 @@ Tablet
 Desktop
 ![Wireframe-desktop](./docs/flashcards-wireframes.png "desktop")
 
-## Screenshots of Trello board
+### Screenshots of Trello board
 
-### Implementing Agile using a Kanban Board
+#### Implementing Agile using a Kanban Board
 
 [![Agile workflow](https://raw.githubusercontent.com/2w00fs/git_practice/master/agile%20workflow.png)](https://github.com/2w00fs/git_practice/blob/master/agile%20workflow.png)
 
-#### Break down project into cycles
+##### Break down project into cycles
 
 For this project these will be :
 - Home
@@ -103,7 +105,7 @@ For this project these will be :
 - Authentication
 - Deployment
 
-##### Design
+###### Design
 
 - Break the tasks down into order of priority
 - Create a card for each task
@@ -111,7 +113,7 @@ For this project these will be :
 - Move card to Backlog queue
 - Assign team member once someone has been given the task
 
-##### Develop
+###### Develop
 
 - Acknowledge card once it has been assigned
 - Move to Development - In Progress once development has started
@@ -119,12 +121,12 @@ For this project these will be :
 - Start writing code for the task
 - Move to Development - Completed when it is ready for testing
 
-##### Test
+###### Test
 
 - Move card to Testing - In Progress once someone has been assigned to test the feature
 - Move card to Testing - Complete when it is ready for deployment
 
-##### Merge
+###### Merge
 
 - Move card to Merged after all test have been completed and the code has been merged with the master branch
 
