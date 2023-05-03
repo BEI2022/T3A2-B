@@ -26,7 +26,6 @@
 [Backend Deployment]()  
 [Trello]()  
 
-[toc]
 ### Purpose
  
 The purpose of the application is to provide a fun and easy way to test knowledge.
